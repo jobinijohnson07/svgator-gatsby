@@ -1,0 +1,90 @@
+.header-overall{
+    padding-top: 20px;
+    background-color: #020818;
+}
+.header-top{
+    grid-area: header;
+    align-items: center;
+    display: flex;
+    font-family: Montserrat,sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    /* min-height: 64px; */
+    padding: 0 45px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+.menus-svgator{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.logo-svgator{
+    height: auto;
+    width: 160px;
+    color: #3cfffc;
+}
+.svgator-nav{
+    display: inline-flex;
+    font-size: 16px;
+    font-weight: 500;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+.svgator-submenuText{
+    color: #fff;
+    padding: 10px 30px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+a {
+    background-color: transparent;
+}
+.svgator-signupText{
+    border: 1px solid #fff;
+    border-radius: 4px;
+    margin-left: 30px;
+    padding: 12px 20px;
+    text-decoration: none;
+    white-space: nowrap;
+    color: #fff;
+}
+h1{
+    margin-top: 45px !important;
+    max-width: unset;
+    font-size: 80px;
+    line-height: 88px;
+    font-weight: 800;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0;
+    color: #ddf5ff;
+}
+span{
+    color: #3cfffc;
+    display: block;
+}
+.discover-content{
+    font-family: Montserrat,sans-serif;
+    font-size: 21px;
+    line-height: 32px;
+    margin-bottom: 1.6em;
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 647px;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 37px
+}
+.coding-content{
+    display: inline-block;
+    position: relative;
+    white-space: nowrap;
+    font-weight: bolder;
+}
