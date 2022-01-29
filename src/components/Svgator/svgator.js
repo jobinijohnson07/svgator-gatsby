@@ -31,7 +31,7 @@ class Svgator extends Component{
         </div>
         <div className='header'>
           <h1>The Easiest Way to 
-            <span>Animate Svg</span>
+            <span>Animate SVG</span>
           </h1>
           <p className="discover-content">Discover the ultimate SVG animation platform - animate illustrations, logos, icons, and more.
            <strong className="coding-content">
