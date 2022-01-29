@@ -54,6 +54,7 @@ a {
     color: #fff;
 }
 h1{
+    font-family: Montserrat,sans-serif;
     margin-top: 45px !important;
     max-width: unset;
     font-size: 80px;
